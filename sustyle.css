@@ -1,0 +1,217 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    margin: 0;
+    background-color: #f8f9fa;
+    color: #333;
+    display: flex;
+    min-height: 100vh;
+}
+.dashboard-container {
+    display: flex;
+    width: 100%;
+    max-width: 1600px; 
+    margin: 0 auto; 
+}
+.kenar {
+    width: 260px;
+    background-color: #ffffff;
+    padding: 25px 20px;
+    display: flex;
+    flex-direction: column;
+    border-right: 1px solid #e9ecef;
+    box-shadow: 2px 0 5px rgba(0,0,0,0.03);
+    flex-shrink: 0; 
+}
+.kenar .logo {
+    font-size: 28px;
+    font-weight: bold;
+    color: #28a745;
+    margin-bottom: 35px;
+    padding-left: 10px;
+}
+.kenar .menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.kenar .menu li a {
+    display: flex;
+    align-items: center;
+    padding: 14px 18px;
+    text-decoration: none;
+    color: #495057;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    transition: background-color 0.2s ease, color 0.2s ease;
+}
+.kenar .menu li a i {
+    margin-right: 12px;
+    color: #6c757d;
+    width: 20px; 
+    text-align: center;
+}
+.kenar .menu li.active a {
+    background-color: #e9f5ec; 
+    color: #28a745; 
+    font-weight: 600;
+}
+.kenar .menu li.active a i {
+    color: #28a745;
+}
+.kenar .menu li a:hover {
+    background-color: #f1f3f5;
+    color: #212529;
+}
+.kenar .profile {
+    margin-top: auto;
+    padding: 20px 10px;
+    font-size: 15px;
+    color: #495057;
+    border-top: 1px solid #e9ecef;
+    display: flex;
+    align-items: center;
+}
+.kenar .profile i {
+    margin-right: 10px;
+    font-size: 22px;
+    color: #6c757d;
+}
+.main-content {
+    flex-grow: 1;
+    padding: 30px;
+    background-color: #f8f9fa; 
+    overflow-y: auto; 
+}
+.main-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 25px;
+}
+.main-header h1 {
+    font-size: 32px;
+    font-weight: 600;
+    color: #212529;
+}
+.chart-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 100px;
+    padding: 10px;
+    margin: 80px auto;
+    margin-top: -10px;
+    max-width: 1100px;
+    width: 350%;
+}
+.chart-box {
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    padding: 50px;
+    height: 300px;
+}
+.chart-box > div {
+    height: 94%;
+    width: 100%;
+}
+.upload-button {
+    background-color: #ffffff;
+    color: #28a745;
+    border: 1px solid #ced4da;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.07);
+    transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+.upload-button i {
+    margin-right: 8px;
+    font-size: 17px;
+}
+.upload-button:hover {
+    background-color: #fdfdfd;
+    border-color: #adb5bd;
+}
+.report-banner {
+    margin-bottom: 30px;
+}
+.report-button {
+    background-color: #e9f5ec;
+    color: #1e7e34;
+    border: 1px solid #c3e6cb;
+    padding: 12px 25px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    transition: background-color 0.2s ease;
+}
+.report-button:hover {
+    background-color: #d4edda;
+}
+@media (max-width: 1366px) { 
+    .main-content { padding: 25px; }
+    .charts-grid { gap: 20px; }
+}
+@media (max-width: 1200px) { 
+    .charts-grid { grid-template-columns: 1fr; }
+    .kenar { width: 240px; }
+    .total-value { font-size: 22px; }
+    .chart-placeholder { min-height: auto; } 
+}
+@media (max-width: 992px) {
+    .kenar {
+        width: 220px;
+        padding: 20px 15px;
+    }
+    .kenar .logo { font-size: 24px; margin-bottom: 30px; }
+    .kenar .menu li a { font-size: 15px; padding: 12px 15px; }
+    .main-content { padding: 20px; }
+    .main-header h1 { font-size: 28px; }
+    .upload-button { font-size: 14px; padding: 9px 18px; }
+    .report-button { font-size: 15px; padding: 11px 22px; }
+}
+@media (max-width: 768px) {
+    .dashboard-container {
+        flex-direction: column;
+        max-width: 100%;
+    }
+    .kenar {
+        width: 100%;
+        height: auto;
+        border-right: none;
+        border-bottom: 1px solid #e9ecef;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        padding: 15px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.03);
+    }
+    .kenar .menu { flex-grow: 1; }
+    .kenar .menu ul { display: flex; justify-content: center; flex-wrap: wrap; }
+    .kenar .menu li { margin: 0 5px; }
+    .kenar .menu li a { padding: 8px 10px; margin-bottom: 0; font-size: 14px; }
+    .kenar .menu li a i { margin-right: 5px; }
+    .kenar .profile { margin-top: 0; border-top: none; padding: 0; }
+    .main-header { flex-direction: column; align-items: flex-start; }
+    .main-header .upload-button { margin-top: 15px; }
+    .x-axis-labels { padding-left: 80px; padding-right: 50px; font-size: 10px; }
+}
+@media (max-width: 576px) {
+    .kenar .menu ul { justify-content: space-around; }
+    .kenar .menu li a { flex-direction: column; font-size: 11px; padding: 6px 8px; }
+    .kenar .menu li a i { margin-right: 0; margin-bottom: 2px; font-size:14px;}
+    .report-button { font-size: 14px; padding: 10px 15px; }
+    .total-value { font-size: 20px;}
+    .horizontal-bar-chart-header { flex-direction: column; align-items: flex-start; gap: 5px; }
+    .bar-item { flex-wrap: wrap; position: relative; padding-bottom: 5px;}
+    .bar-label { width: calc(100% - 55px); margin-bottom: 3px; }
+    .bar-value { position: absolute; right: 0; top:0; width: 50px; }
+    .bar-wrapper { width: 100%; margin-left:0; margin-right: 0; order: 2; }
+    .x-axis-labels { display: none; } 
+}

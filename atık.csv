@@ -1,0 +1,11 @@
+Atık Türü,Miktar (ton),Ay,Bertaraf Şekli,Tesis,Bölge,Yıl
+Tehlikeli Atık,500,Ocak,Geri Dönüşüm,Tesis A,Türkiye,2020
+Tehlikesiz Atık,800,Şubat,Yakma,Tesis B,Almanya,2020
+Geri Dönüştürülebilir Atık,300,Mart,Düzenli Depolama,Tesis C,Hindistan,2021
+Organik Atık,400,Nisan,Kompost,Tesis D,Kenya,2021
+Tehlikeli Atık,700,Mayıs,Diğer,Tesis A,Çin,2022
+Tehlikesiz Atık,200,Haziran,Geri Dönüşüm,Tesis B,Belçika,2022
+Geri Dönüştürülebilir Atık,650,Temmuz,Yakma,Tesis C,Güney Kore,2023
+Organik Atık,500,Ağustos,Düzenli Depolama,Tesis D,Türkiye,2023
+Tehlikeli Atık,300,Eylül,Kompost,Tesis A,Almanya,2024
+Tehlikesiz Atık,450,Ekim,Diğer,Tesis B,Hindistan,2024

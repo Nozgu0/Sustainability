@@ -1,0 +1,47 @@
+Yıl,Enerji Tipi,Tüketim (kWh),Ay,Tesis,Maliyet ($),Operasyonel Alan
+2023,Yenilenebilir,15000,Ocak,Fabrika A,750,Üretim
+2023,Fosil,30000,Ocak,Fabrika A,2100,Üretim
+2023,Elektrik,12000,Ocak,Fabrika A,1200,Üretim
+2023,Doğal Gaz,8000,Ocak,Fabrika A,560,HVAC
+2023,Kömür,10000,Ocak,Fabrika A,300,Isıtma
+2023,Yenilenebilir,500,Ocak,Ofis B,25,Aydınlatma
+2023,Fosil,0,Ocak,Ofis B,0,Aydınlatma
+2023,Elektrik,400,Ocak,Ofis B,40,Aydınlatma
+2023,Doğal Gaz,100,Ocak,Ofis B,7,HVAC
+2023,Kömür,0,Ocak,Ofis B,0,HVAC
+2024,Yenilenebilir,18000,Şubat,Fabrika A,900,Üretim
+2024,Fosil,25000,Şubat,Fabrika A,1750,Üretim
+2024,Elektrik,14000,Şubat,Fabrika A,1400,Üretim
+2024,Doğal Gaz,7000,Şubat,Fabrika A,490,HVAC
+2024,Kömür,8000,Şubat,Fabrika A,240,Isıtma
+2024,Yenilenebilir,600,Şubat,Depo C,30,Ofis
+2024,Fosil,0,Şubat,Depo C,0,Ofis
+2024,Elektrik,500,Şubat,Depo C,50,Ofis
+2024,Doğal Gaz,200,Şubat,Depo C,14,HVAC
+2024,Kömür,0,Şubat,Depo C,0,HVAC
+2023,Yenilenebilir,1000,Mart,Ar-Ge Merkezi,50,Ofis
+2023,Fosil,500,Mart,Ar-Ge Merkezi,35,Ofis
+2023,Elektrik,800,Mart,Ar-Ge Merkezi,80,Ofis
+2023,Doğal Gaz,300,Mart,Ar-Ge Merkezi,21,HVAC
+2023,Kömür,0,Mart,Ar-Ge Merkezi,0,HVAC
+2024,Yenilenebilir,200,Nisan,Fabrika A,10,Aydınlatma
+2024,Fosil,100,Nisan,Fabrika A,7,Aydınlatma
+2024,Elektrik,150,Nisan,Fabrika A,15,Aydınlatma
+2024,Doğal Gaz,50,Nisan,Fabrika A,3.5,HVAC
+2024,Kömür,0,Nisan,Fabrika A,0,HVAC
+2023,Yenilenebilir,16000,Mayıs,Fabrika A,800,Üretim
+2023,Fosil,32000,Mayıs,Fabrika A,2240,Üretim
+2023,Elektrik,13000,Mayıs,Fabrika A,1300,Üretim
+2023,Doğal Gaz,8500,Mayıs,Fabrika A,595,HVAC
+2023,Kömür,11000,Mayıs,Fabrika A,330,Isıtma
+2024,Yenilenebilir,10000,Haziran,Depo C,500,Üretim
+2024,Fosil,5000,Haziran,Depo C,350,Üretim
+2024,Elektrik,8000,Haziran,Depo C,800,Üretim
+2024,Doğal Gaz,2000,Haziran,Depo C,140,HVAC
+2024,Kömür,1000,Haziran,Depo C,30,Isıtma
+2023,Elektrik,500,Temmuz,Ofis B,50,Ofis
+2023,Doğal Gaz,150,Ağustos,Ofis B,10.5,Aydınlatma
+2024,Yenilenebilir,2000,Eylül,Ar-Ge Merkezi,100,Üretim
+2024,Elektrik,1500,Ekim,Ar-Ge Merkezi,150,Ofis
+2023,Fosil,6000,Kasım,Fabrika A,420,Isıtma
+2024,Doğal Gaz,3000,Aralık,Depo C,210,HVAC

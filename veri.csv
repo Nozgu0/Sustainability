@@ -1,0 +1,75 @@
+Yıl,Ay,Enerji Tipi,Tesis,Operasyonel Alan,Tüketim (kWh),Maliyet ($)
+2019,Ocak,Yenilenebilir,TesisA,Üretim,12000,3600
+2019,Ocak,Fosil,TesisA,Üretim,18000,7200
+2019,Şubat,Elektrik,TesisB,Ofis,8000,2400
+2019,Mart,Doğal Gaz,TesisC,HVAC,15000,4500
+2019,Nisan,Kömür,TesisA,Üretim,9000,2700
+2019,Mayıs,Yenilenebilir,TesisB,Aydınlatma,5000,1500
+2019,Haziran,Fosil,TesisC,HVAC,20000,8000
+2019,Temmuz,Elektrik,TesisA,Üretim,22000,6600
+2019,Ağustos,Doğal Gaz,TesisB,Ofis,7000,2100
+2019,Eylül,Kömür,TesisC,HVAC,6000,1800
+2019,Ekim,Yenilenebilir,TesisA,Aydınlatma,4000,1200
+2019,Kasım,Fosil,TesisB,Üretim,17000,6800
+2019,Aralık,Elektrik,TesisC,HVAC,13000,3900
+2020,Ocak,Doğal Gaz,TesisA,Üretim,16000,4800
+2020,Ocak,Kömür,TesisB,Ofis,11000,3300
+2020,Şubat,Yenilenebilir,TesisC,HVAC,9000,2700
+2020,Mart,Fosil,TesisA,Aydınlatma,14000,5600
+2020,Nisan,Elektrik,TesisB,Üretim,18000,5400
+2020,Mayıs,Doğal Gaz,TesisC,Ofis,8500,2550
+2020,Haziran,Kömür,TesisA,HVAC,7500,2250
+2020,Temmuz,Yenilenebilir,TesisB,Aydınlatma,6000,1800
+2020,Ağustos,Fosil,TesisC,Üretim,19000,7600
+2020,Eylül,Elektrik,TesisA,Ofis,9500,2850
+2020,Ekim,Doğal Gaz,TesisB,HVAC,12500,3750
+2020,Kasım,Kömür,TesisC,Aydınlatma,5500,1650
+2020,Aralık,Yenilenebilir,TesisA,Üretim,11000,3300
+2021,Ocak,Fosil,TesisB,Ofis,16000,6400
+2021,Şubat,Elektrik,TesisC,HVAC,17000,5100
+2021,Mart,Doğal Gaz,TesisA,Aydınlatma,13000,3900
+2021,Nisan,Kömür,TesisB,Üretim,8000,2400
+2021,Mayıs,Yenilenebilir,TesisC,Ofis,7000,2100
+2021,Haziran,Fosil,TesisA,HVAC,21000,8400
+2021,Temmuz,Elektrik,TesisB,Aydınlatma,14500,4350
+2021,Ağustos,Doğal Gaz,TesisC,Üretim,17500,5250
+2021,Eylül,Kömür,TesisA,Ofis,6500,1950
+2021,Ekim,Yenilenebilir,TesisB,HVAC,9500,2850
+2021,Kasım,Fosil,TesisC,Aydınlatma,18500,7400
+2021,Aralık,Elektrik,TesisA,Üretim,20000,6000
+2022,Ocak,Doğal Gaz,TesisB,Ofis,14000,4200
+2022,Şubat,Kömür,TesisC,HVAC,10000,3000
+2022,Mart,Yenilenebilir,TesisA,Aydınlatma,8500,2550
+2022,Nisan,Fosil,TesisB,Üretim,22000,8800
+2022,Mayıs,Elektrik,TesisC,Ofis,11500,3450
+2022,Haziran,Doğal Gaz,TesisA,HVAC,19500,5850
+2022,Temmuz,Kömür,TesisB,Aydınlatma,7000,2100
+2022,Ağustos,Yenilenebilir,TesisC,Üretim,13000,3900
+2022,Eylül,Fosil,TesisA,Ofis,16500,6600
+2022,Ekim,Elektrik,TesisB,HVAC,18000,5400
+2022,Kasım,Doğal Gaz,TesisC,Aydınlatma,14500,4350
+2022,Aralık,Kömür,TesisA,Üretim,9500,2850
+2023,Ocak,Yenilenebilir,TesisB,Ofis,11000,3300
+2023,Şubat,Fosil,TesisC,HVAC,19500,7800
+2023,Mart,Elektrik,TesisA,Aydınlatma,16000,4800
+2023,Nisan,Doğal Gaz,TesisB,Üretim,20500,6150
+2023,Mayıs,Kömür,TesisC,Ofis,8000,2400
+2023,Haziran,Yenilenebilir,TesisA,HVAC,12500,3750
+2023,Temmuz,Fosil,TesisB,Aydınlatma,17500,7000
+2023,Ağustos,Elektrik,TesisC,Üretim,23000,6900
+2023,Eylül,Doğal Gaz,TesisA,Ofis,15000,4500
+2023,Ekim,Kömür,TesisB,HVAC,9000,2700
+2023,Kasım,Yenilenebilir,TesisC,Aydınlatma,10500,3150
+2023,Aralık,Fosil,TesisA,Üretim,20000,8000
+2024,Ocak,Elektrik,TesisB,Ofis,17000,5100
+2024,Şubat,Doğal Gaz,TesisC,HVAC,18500,5550
+2024,Mart,Kömür,TesisA,Aydınlatma,7500,2250
+2024,Nisan,Yenilenebilir,TesisB,Üretim,14000,4200
+2024,Mayıs,Fosil,TesisC,Ofis,16000,6400
+2024,Haziran,Elektrik,TesisA,HVAC,19500,5850
+2024,Temmuz,Doğal Gaz,TesisB,Aydınlatma,13500,4050
+2024,Ağustos,Kömür,TesisC,Üretim,11000,3300
+2024,Eylül,Yenilenebilir,TesisA,Ofis,9500,2850
+2024,Ekim,Fosil,TesisB,HVAC,18000,7200
+2024,Kasım,Elektrik,TesisC,Aydınlatma,15500,4650
+2024,Aralık,Doğal Gaz,TesisA,Üretim,21000,6300

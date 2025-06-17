@@ -1,0 +1,13 @@
+Gün,Son 6 Gün CO2e,Geçen Hafta CO2e,Ay,Aylık CO2e,Ülke,Yıllık Emisyon Ton,Kaynak,Emisyon Miktarı,Yıl,Kapsam 1,Kapsam 2,Kapsam 3,Ürün,Karbon Ayak İzi,Ürün Adı,Karbon Ayak İzi (Toplam)
+0,450,380,Ocak,20,Hindistan,4181563,İşletme Artıkları,53,2019,1800,3000,2000,Ürün A,4181563,Ürün A,4181563
+1,414,390,Şubat,79,Türkiye,2175498,Lojistik,35,2020,2000,3500,2500,Ürün B,2175498,Ürün B,2175498
+2,520,450,Mart,60,Almanya,3125844,Dağıtım,123,2021,1500,4000,3000,Ürün C,3125844,Ürün C,3125844
+3,460,480,Nisan,100,Kenya,1176121,İş Seyahatleri,54,2022,2700,4500,3500,Ürün D,3125844,Ürün D,3125844
+4,450,470,Mayıs,109,Güney Kore,2175498,Ürün Kullanımı,32,2023,4000,1000,4000,Ürün A,4181563,Ürün A,4181563
+5,500,510,Haziran,200,Çin,3125844,Ofis,53,2019,1800,3000,2000,Ürün B,2175498,Ürün B,2175498
+6,,,Temmuz,269,Rusya,1176121,Üretim Süreçleri,8,2020,2000,3500,2500,Ürün C,3125844,Ürün C,3125844
+7,,,Ağustos,300,Hindistan,4181563,Diğer,5,2021,1500,4000,3000,Ürün D,3125844,Ürün D,3125844
+8,,,Eylül,350,Türkiye,2175498,İşletme Artıkları,53,2022,2700,4500,3500,Ürün A,4181563,Ürün A,4181563
+9,,,Ekim,589,Almanya,3125844,Lojistik,35,2023,4000,1000,4000,Ürün B,2175498,Ürün B,2175498
+10,,,Kasım,1000,Kenya,1176121,Dağıtım,123,,,,Ürün C,3125844,Ürün C,3125844
+11,,,Aralık,1200,Güney Kore,2175498,İş Seyahatleri,54,,,,Ürün D,3125844,Ürün D,3125844

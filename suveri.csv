@@ -1,0 +1,9 @@
+Yıl,Ay,Su Kaynağı,Tüketim (m³),Su Kullanım Süreci,Süreç Tüketimi (m³),Oran Türü,Oran Yüzdesi,Sezon,Sezonluk Tüketim (m³),Şirket Tüketimi (m³),Sektör Tüketimi (m³)
+2018,Ocak,Şebeke Suyu,4000000,Üretim Süreci,180,Kış,40,3200000,3100000
+2018,Şubat,Yeraltı Suyu,2100000,Soğutma,190,Hedeflenen,35.0,Kış,37,3200000,3100000
+2019,Ocak,Şebeke Suyu,4181563,Üretim Süreci,198,Değer,53.37,Kış,44,3386000,3333333
+2020,Ocak,Şebeke Suyu,4181563,Üretim Süreci,200,Kış,46,6944000,3333333
+2021,Ocak,Şebeke Suyu,4181563,Üretim Süreci,176,Sonbahar,46,6026000,333555
+2022,Ocak,Şebeke Suyu,4181563,Üretim Süreci,222,Kış,46,2394000,1133333
+2023,Ocak,Şebeke Suyu,4181563,Üretim Süreci,333,İlkbahar,46,1872000,6633333
+2024,Ocak,Şebeke Suyu,4200000,Üretim Süreci,111,Yaz,47,1900000,33524340
