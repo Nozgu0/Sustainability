@@ -15,11 +15,4 @@ Amaç, şirketlerin çevresel etkilerini daha şeffaf ve ölçülebilir hale get
 * Veri analizine uygun esnek yapı
 * Dashboard temelli yönetim paneli yaklaşımı
 
-## 📊 Enerji Paneli Ekran Görüntüsü
-
-<img src="https://github.com/kullaniciadi/repoadi/blob/main/en.png" width="800">
-## ⚡ Enerji Yönetimi Dashboard Sayfası
-
-<div align="center">
-  <img src="https://github.com/kullaniciadi/repoadi/blob/main/en.png" width="80%">
-</div>
+![Sustainability Logo](https://raw.githubusercontent.com/Nozgu0/Sustainability/refs/heads/main/en.png)
