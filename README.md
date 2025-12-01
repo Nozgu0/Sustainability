@@ -1,4 +1,4 @@
-# KURULUŞLAR İÇİN SÜRDÜRÜLEBİLİRLİK YÖNETİMİ: KAVRAMSAL, ANALİTİK VE TEKNOLOJİK BİR YAKLAŞIM
+# Kuruluşlar İçin Sürdürebilirlik Yönetimi: Kavramsal, Analitik Ve Teknolojik Bir Yaklaşım
 
 Bu proje, kurumsal şirketlerin sürdürülebilirlik verilerini (karbon ayak izi, su tüketimi, enerji kullanımı ve atık yönetimi) analiz ederek görselleştiren web tabanlı bir yönetim panelidir.
 Amaç, şirketlerin çevresel etkilerini daha şeffaf ve ölçülebilir hale getirerek sürdürülebilirlik hedeflerine katkıda bulunmalarını sağlamaktır.
