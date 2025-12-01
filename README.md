@@ -5,3 +5,12 @@ Amaç, şirketlerin çevresel etkilerini daha şeffaf ve ölçülebilir hale get
 
 🔧 Kullanılan teknolojiler: HTML · CSS · JavaScript · CanvasJS
 📊Veri kaynakları: Örnek teşkil etmesi açısından Apple Inc. sürdürülebilirlik raporları kullanılmıştır.
+
+
+🚀 Özellikler
+
+* Sürdürülebilirlik verilerinin görselleştirilmesi
+* Karbon, su, enerji ve atık metriklerinin dinamik grafiklerle sunulması
+* Kullanıcı dostu ve sade tasarım
+* Veri analizine uygun esnek yapı
+* Dashboard temelli yönetim paneli yaklaşımı
